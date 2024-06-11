@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718065874 source:c:\users\ivan\desktop\tp juego\juegodados\main.cpp
+	<iostream>
+	<stdlib.h>
+	"funciones.h"
+
+1718065904 c:\users\ivan\desktop\tp juego\juegodados\funciones.h
+
