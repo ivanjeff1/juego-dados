@@ -32,8 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="funciones.cpp" />
 		<Unit filename="funciones.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
