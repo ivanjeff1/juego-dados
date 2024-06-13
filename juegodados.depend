@@ -1,14 +1,17 @@
 # depslib dependency file v1.0
-1718216510 source:c:\users\ivan\desktop\tp juego\juegodados\main.cpp
+1718238055 source:c:\users\ivan\desktop\tp juego\juegodados\main.cpp
 	<iostream>
 	<stdlib.h>
 	"rlutil.h"
 	"funciones.h"
 
-1718216750 c:\users\ivan\desktop\tp juego\juegodados\funciones.h
+1718236160 c:\users\ivan\desktop\tp juego\juegodados\funciones.h
 
-1718211286 source:c:\users\ivan\desktop\tp juego\juegodados\funciones.cpp
+1718238606 source:c:\users\ivan\desktop\tp juego\juegodados\funciones.cpp
 	<iostream>
+	"rlutil.h"
+	<ctime>
+	"funciones.h"
 
 1718210863 c:\users\ivan\desktop\tp juego\juegodados\rlutil.h
 	<iostream>
@@ -23,4 +26,10 @@
 	<sys/ioctl.h>
 	<sys/types.h>
 	<sys/time.h>
+
+1718238870 source:c:\users\ivan\desktop\tp juego\juegodados\dados.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"funciones.h"
 

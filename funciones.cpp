@@ -1,5 +1,8 @@
 #include <iostream>
+#include "rlutil.h"
+#include <ctime>
 
+#include "funciones.h"
 using namespace std;
 
 
@@ -17,7 +20,9 @@ int opciones;
     switch(opciones){
 
    case 1:
-        break;
+
+
+break;
    case 0:
         return;
 
