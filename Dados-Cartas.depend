@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1718921536 source:c:\projects\dados-cartas\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718917488 c:\projects\dados-cartas\funciones.h
+
+1718921854 source:c:\projects\dados-cartas\funciones.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718565309 c:\projects\dados-cartas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718824754 c:\projects\dados-cartas\dados.h
+
+1718921525 source:c:\projects\dados-cartas\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1718922859 source:c:\users\ivan\desktop\tp juego\c\juegos-dados\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718920446 c:\users\ivan\desktop\tp juego\c\juegos-dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718920446 c:\users\ivan\desktop\tp juego\c\juegos-dados\dados.h
+
+1718920446 c:\users\ivan\desktop\tp juego\c\juegos-dados\funciones.h
+
+1718923268 source:c:\users\ivan\desktop\tp juego\c\juegos-dados\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1718923340 source:c:\users\ivan\desktop\tp juego\c\juegos-dados\funciones.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718923268 source:c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1718920446 c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718920446 c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\dados.h
+
+1718923340 source:c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\funciones.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718920446 c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\funciones.h
+
+1718922859 source:c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
