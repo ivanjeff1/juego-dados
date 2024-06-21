@@ -122,6 +122,8 @@ int tirarDado(int posx, int posy){
 }
 
 
+
+
 // Puntos
 void dibujarPuntos(int numero, int posx, int posy){
     rlutil::setColor(rlutil::BLACK);

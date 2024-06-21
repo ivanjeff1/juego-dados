@@ -110,3 +110,21 @@
 	"dados.h"
 	"funciones.h"
 
+1718932688 source:c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\juego-de-dados-00\juego-dados\funciones.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
+1718932688 c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\juego-de-dados-00\juego-dados\dados.h
+
+1718932688 c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\juego-de-dados-00\juego-dados\funciones.h
+
+1718932688 source:c:\users\ivan\desktop\tp juego\juego dados 00\juegos-dados\juego-de-dados-00\juego-dados\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"funciones.h"
+
